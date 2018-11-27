@@ -1,0 +1,25 @@
+{
+  "name": "spectrum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codealchemist/spectrum.git"
+  },
+  "keywords": [
+    "spectrum"
+  ],
+  "author": "Alberto Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codealchemist/spectrum/issues"
+  },
+  "homepage": "https://github.com/codealchemist/spectrum#readme",
+  "dependencies": {
+    "standard-focus": "^1.1.2"
+  }
+}
