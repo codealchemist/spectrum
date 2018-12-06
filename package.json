@@ -1,14 +1,14 @@
 {
-  "name": "spectrum",
+  "name": "uspectrum",
   "version": "1.0.0",
-  "description": "",
+  "description": "Spectrum analyzers for WebAudio.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codealchemist/spectrum.git"
+    "url": "git+https://github.com/codealchemist/uspectrum.git"
   },
   "keywords": [
     "spectrum"
@@ -16,10 +16,10 @@
   "author": "Alberto Miranda",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codealchemist/spectrum/issues"
+    "url": "https://github.com/codealchemist/uspectrum/issues"
   },
-  "homepage": "https://github.com/codealchemist/spectrum#readme",
+  "homepage": "https://github.com/codealchemist/uspectrum#readme",
   "dependencies": {
-    "standard-focus": "^1.1.2"
+    "uspectrum-wave": "^1.0.0"
   }
 }
