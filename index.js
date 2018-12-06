@@ -1,5 +1,7 @@
-const USpectrumWave = require('uspectrum-wave');
+const USpectrumWave = require('uspectrum-wave')
+const USpectrumHeatmap = require('uspectrum-heatmap')
 
 module.exports = {
-  USpectrumWave
-};
+  USpectrumWave,
+  USpectrumHeatmap
+}

@@ -10,8 +10,13 @@ This is a metapackage.
 
 ## Usage
 
-See specific spectrum analyzers documentation below.
+```
+import { USpectrumWave, USpectrumHeatmap } from 'uspectrum'
+```
+
+See specific spectrum analyzers documentation below for more info.
 
 ## Available spectrum analyzers
 
 - [µ-spectrum-wave](https://github.com/codealchemist/uspectrum-wave)
+- [µ-spectrum-heatmap](https://github.com/codealchemist/uspectrum-heatmap)
