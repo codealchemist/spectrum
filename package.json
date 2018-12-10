@@ -1,6 +1,6 @@
 {
   "name": "uspectrum",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Spectrum analyzers for WebAudio.",
   "main": "index.js",
   "scripts": {
