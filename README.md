@@ -11,7 +11,7 @@ This is a metapackage.
 ## Usage
 
 ```
-import { USpectrumWave, USpectrumHeatmap } from 'uspectrum'
+import { USpectrumWave, USpectrumHeatmap, USpectrumCircle } from 'uspectrum'
 ```
 
 See specific spectrum analyzers documentation below for more info.
@@ -20,3 +20,4 @@ See specific spectrum analyzers documentation below for more info.
 
 - [µ-spectrum-wave](https://github.com/codealchemist/uspectrum-wave)
 - [µ-spectrum-heatmap](https://github.com/codealchemist/uspectrum-heatmap)
+- [µ-spectrum-circle](https://github.com/codealchemist/uspectrum-circle)

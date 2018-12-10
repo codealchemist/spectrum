@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/codealchemist/uspectrum#readme",
   "dependencies": {
+    "uspectrum-circle": "^1.0.0",
     "uspectrum-heatmap": "^1.0.0",
     "uspectrum-wave": "^1.0.1"
   }
